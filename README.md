@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Hasham Ibn E Tariq</h1>
 <h3 align="center">I am a Software Engineer from Comsats University Islamabad</h3>
 
-(img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/AromaticAlienatedIzuthrush-size_restricted.gif")
+<img align="right" alt="Coding" width="300" src="https://media.istockphoto.com/id/523875108/vector/global-network.jpg?s=612x612&w=0&k=20&c=lIFjOVZ7YnXiamWNPBhIPejO1DwEABCaDSPQZxYvrLg=">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed-hasham-ibn-e-tariq" alt="ahmed-hasham-ibn-e-tariq" /></a> </p>
 
