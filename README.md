@@ -1,7 +1,9 @@
-[![MasterHead](https://i.gifer.com/origin/d3/d38209c2a8c0c0cdec9fee1bfabe6ba0.gif)](https://rishavchanda.io)
+[![MasterHead](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9oYWNrZXJub29uLmNvbS9obi1pbWFnZXMvMSpjazZjUmJiZTN1YWVsRUcySlBzSU13LmdpZg)](https://ahmedhasham.io)
 
 <h1 align="center">Hi 👋, I'm Ahmed Hasham Ibn E Tariq</h1>
 <h3 align="center">I am a Software Engineer from Comsats University Islamabad</h3>
+
+[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://ahmedhasham.io)
 
 <img align="right" alt="Coding" width="300" src="https://media.istockphoto.com/id/523875108/vector/global-network.jpg?s=612x612&w=0&k=20&c=lIFjOVZ7YnXiamWNPBhIPejO1DwEABCaDSPQZxYvrLg=">
 
