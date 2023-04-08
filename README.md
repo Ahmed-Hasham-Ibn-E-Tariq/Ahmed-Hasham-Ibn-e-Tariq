@@ -5,7 +5,7 @@
 
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://ahmedhasham.io)
 
-<img align="right" alt="Coding" width="300" src="https://media.istockphoto.com/id/523875108/vector/global-network.jpg?s=612x612&w=0&k=20&c=lIFjOVZ7YnXiamWNPBhIPejO1DwEABCaDSPQZxYvrLg=">
+<img align="right" alt="Coding" width="150" src="https://media.istockphoto.com/id/523875108/vector/global-network.jpg?s=612x612&w=0&k=20&c=lIFjOVZ7YnXiamWNPBhIPejO1DwEABCaDSPQZxYvrLg=">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed-hasham-ibn-e-tariq" alt="ahmed-hasham-ibn-e-tariq" /></a> </p>
 
