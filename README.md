@@ -1,7 +1,7 @@
 [![MasterHead](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9oYWNrZXJub29uLmNvbS9obi1pbWFnZXMvMSpjazZjUmJiZTN1YWVsRUcySlBzSU13LmdpZg)](https://ahmedhasham.io)
 
-<h1 align="center">Hi 👋, I'm Ahmed Hasham Ibn E Tariq</h1>
-<h3 align="center">I am a Software Engineer from Comsats University Islamabad</h3>
+<h1 align="center">Hi 👋, I'm Ahmed Hasham</h1>
+<h3 align="center">I am Researcher at Zhejiang University, China</h3>
 
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://ahmedhasham.io)
 
@@ -11,11 +11,11 @@
 
 <p align="left"> <a href="https://twitter.com/ahmedha68183516" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedha68183516?logo=twitter&style=for-the-badge" alt="ahmedha68183516" /></a> </p>
 
-- 🔭 I’m currently working on **Cyber Security**
+- 🔭 I’m currently working on **Cyber Security, AI and Sementic Communication**
 
-- 💬 Ask me about **Cyber Security, Networking**
+- 💬 Ask me about **Cyber Security, AI**
 
-- 📫 How to reach me **hasham677677@gmail.com**
+- 📫 How to reach me **hasham@hust.edu.cn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
